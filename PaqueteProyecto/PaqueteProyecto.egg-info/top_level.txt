@@ -1,3 +1,0 @@
-FuncionesPrueba
-MetodosMultivariables
-MetodosUnivariables
